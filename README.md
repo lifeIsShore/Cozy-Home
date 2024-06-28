@@ -1,7 +1,7 @@
 
-   ###Furniture E-commerce Website</title>
+   ##Furniture E-commerce Website
 
-    ##Furniture E-commerce Website</h1>
+    ##Furniture E-commerce Website
     This repository contains the source code for a furniture e-commerce website, created as the final project for our course. The website allows users to browse, search, and purchase various furniture items with a seamless and user-friendly interface.</p>
 
    #Features
