@@ -31,8 +31,9 @@ npm install</code></pre>
 </li>
 </ol>
 
-
-
 License
 <p>This project is licensed under the MIT License.</p>
+
+
+![image](https://github.com/lifeIsShore/Cozy-Home/assets/124509700/86a8d618-f4ba-497c-b464-8fdbf4995445)
 
