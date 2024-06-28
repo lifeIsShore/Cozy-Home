@@ -1,9 +1,9 @@
 
-##Furniture E-commerce Website
-##Furniture E-commerce Website
+Furniture E-commerce Website
+Furniture E-commerce Website
 This repository contains the source code for a furniture e-commerce website, created as the final project for our course. The website allows users to browse, search, and purchase various furniture items with a seamless and user-friendly interface.</p>
 
-#Features
+Features
 <ul>
 <li>User authentication and profile management</li>
 <li>Product listings with detailed descriptions and images</li>
@@ -12,15 +12,12 @@ This repository contains the source code for a furniture e-commerce website, cre
 <li>Responsive design for mobile and desktop</li>
 </ul>
 
-#Technologies Used
+Technologies Used
 <ul>
-<li>Frontend: HTML, CSS, JavaScript, React</li>
-<li>Backend: Node.js, Express</li>
-<li>Database: MongoDB</li>
-<li>Authentication: JWT</li>
+<li>Frontend: HTML, CSS, JavaScript</li>
 </ul>
 
-#Installation
+Installation
 <ol>
 <li>Clone the repository:
 <pre><code>git clone https://github.com/username/furniture-ecommerce.git</code></pre>
@@ -34,12 +31,8 @@ npm install</code></pre>
 </li>
 </ol>
 
-#Contributors
-<ul>
-<li><a href="https://github.com/yourusername">Your Name</a></li>
-<li><a href="https://github.com/teammateusername">Teammate Name</a></li>
-</ul>
 
-#License
+
+License
 <p>This project is licensed under the MIT License.</p>
 
