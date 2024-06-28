@@ -35,5 +35,7 @@ License
 <p>This project is licensed under the MIT License.</p>
 
 
-![image](https://github.com/lifeIsShore/Cozy-Home/assets/124509700/86a8d618-f4ba-497c-b464-8fdbf4995445)
+![image](https://github.com/lifeIsShore/Cozy-Home/assets/124509700/86a8d618-f4ba-497c-b464-8fdbf4995445)    ![image](https://github.com/lifeIsShore/Cozy-Home/assets/124509700/332d422e-8383-466f-b561-4e1dfc5f79e4)    ![image](https://github.com/lifeIsShore/Cozy-Home/assets/124509700/1f0d0164-edda-414e-a4c5-30cb863089eb)
+
+
 
